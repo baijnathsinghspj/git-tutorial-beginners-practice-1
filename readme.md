@@ -9,6 +9,10 @@ the descipline are:
 Thank You Very Much!
 
 # summery 
+<<<<<<< Updated upstream
 its a nice repo
 
 # stash
+=======
+its a nice repository. more changes
+>>>>>>> Stashed changes

@@ -6,6 +6,10 @@ import numpy as np
 
 print("Hello World")
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+# end
+>>>>>>> Stashed changes
 
 print("Another stash")
 =======
