@@ -11,7 +11,11 @@ print("Hello World")
 # end
 >>>>>>> Stashed changes
 
+<<<<<<< Updated upstream
 print("Another stash")
 =======
 print("Stash")
+>>>>>>> Stashed changes
+=======
+# work in process
 >>>>>>> Stashed changes
