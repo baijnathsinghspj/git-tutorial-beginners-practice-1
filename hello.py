@@ -3,19 +3,13 @@
 import os
 import pandas as pd
 import numpy as np
+import sklearn
 
 print("Hello World")
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
 # end
->>>>>>> Stashed changes
 
-<<<<<<< Updated upstream
 print("Another stash")
-=======
 print("Stash")
->>>>>>> Stashed changes
-=======
 # work in process
->>>>>>> Stashed changes
+print("Thanks")
+print("End")
